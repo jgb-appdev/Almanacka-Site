@@ -10,7 +10,7 @@ Ge Almanackan full åtkomst till Kalender i iPhones inställningar. Kontrollera 
 
 ### Namnsdagar eller helgdagar saknas
 
-Svenska namnsdagar finns i appens lokala tabell och svenska helgdagar beräknas i appen. Båda fungerar utan internet. Kontrollera valt datum om en uppgift saknas. Egna namnsdagar visas i appen men inte i hemskärmswidgeten.
+Svenska namnsdagar finns i appens lokala tabell och svenska helgdagar beräknas i appen. Båda fungerar utan internet. Kontrollera valt datum om en uppgift saknas.
 
 ### Annonser visas inte
 
