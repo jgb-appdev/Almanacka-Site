@@ -12,9 +12,9 @@ Ge Almanackan full åtkomst till Kalender i iPhones inställningar. Kontrollera 
 
 Svenska namnsdagar finns i appens lokala tabell och svenska helgdagar beräknas i appen. Båda fungerar utan internet. Kontrollera valt datum om en uppgift saknas.
 
-### Annonser visas inte
+### Kostar appen något?
 
-Annonser kräver internetanslutning och visas först när annonsplattformens samtyckesflöde tillåter det. Om en annons inte kan laddas går kalendern ändå att använda.
+Almanackan är ett gratis hobbyprojekt utan annonser, köp i appen eller abonnemang.
 
 ### Jag får inga påminnelser
 
